@@ -1,2 +1,11 @@
 # Bookshelf-API
-CRUD api submission
+CRUD rest-api submission
+
+
+ # for installation 
+ npm install
+ 
+ # npm 
+ -nodemon
+ -nanoid
+ 
