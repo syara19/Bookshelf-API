@@ -6,6 +6,6 @@ CRUD restful-api submission
  npm install
  
  # npm 
- -nodemon
+ -nodemon \
  -nanoid
  
