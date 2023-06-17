@@ -1,5 +1,5 @@
 # Bookshelf-API
-CRUD rest-api submission
+CRUD restful-api submission
 
 
  # for installation 
